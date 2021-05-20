@@ -10,7 +10,7 @@
 
 ### About Me
 
-### [Professional](https://github.com/crypto61/eportfolio/blob/master/professional.md)
+### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
 
 ![](images/dummy_thumbnail.jpg?raw=true)
 
