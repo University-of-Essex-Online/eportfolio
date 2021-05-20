@@ -1,6 +1,8 @@
-## E-Portfolio of
+## E-Portfolio of   
 
-# Steve Johnson, CISSP, CVP
+![](https://user-images.githubusercontent.com/36738165/119046119-505f9980-b98a-11eb-9e40-7e4173db03f3.png)
+
+# Steve Johnson, CISSP, CVP       
 
 ## MSc. Cybersecurity Cohort May 2021
 
@@ -8,22 +10,19 @@
 
 ### About Me
 
-### [Professional](https://github.com/crypto61/eportfolio/master/professional.md)  
- 
+### [Professional](https://github.com/crypto61/eportfolio/master/professional.md)
 
 ![](images/dummy_thumbnail.jpg?raw=true)
 
 ---
 
-### Personal  
- 
+### Personal
 
 ![](images/dummy_thumbnail.jpg?raw=true)
 
 ---
 
-[Project 3 Title](http://example.com/)  
- 
+[Project 3 Title](http://example.com/)  
 
 ![](images/dummy_thumbnail.jpg?raw=true)
 
