@@ -12,29 +12,18 @@
 
 ### [Professional](https://github.com/crypto61/eportfolio/blob/master/Professional.md)
 
-![](images/dummy_thumbnail.jpg?raw=true)
-
----
-
-### Personal
+### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
 
 ![](images/dummy_thumbnail.jpg?raw=true)
 
----
+### University of Essex Learning Experience
 
-[Project 3 Title](http://example.com/)  
-
-![](images/dummy_thumbnail.jpg?raw=true)
-
----
-
-### Category Name 2
-
-*   [Project 1 Title](http://example.com/)
-*   [Project 2 Title](http://example.com/)
-*   [Project 3 Title](http://example.com/)
-*   [Project 4 Title](http://example.com/)
-*   [Project 5 Title](http://example.com/)
+*   [Induction Module](https://github.com/crypto61/eportfolio/blob/master/Induction.md)
+*   [Module 1 **Launching into Cyber Security**](https://github.com/crypto61/eportfolio/blob/master/LCYS.md)
+*   [Module 2 Title](http://example.com/)
+*   [Module 3 Title](http://example.com/)
+*   [Module 4 Title](http://example.com/)
+*   [Module 5 Title](http://example.com/)
 
 ---
 
