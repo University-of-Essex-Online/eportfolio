@@ -14,7 +14,6 @@
 
 ### [Personal](https://github.com/crypto61/eportfolio/blob/master/Personal.md) 
 
-![](images/dummy_thumbnail.jpg?raw=true)
 
 ### University of Essex Learning Experience
 
